@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Artificial intelligence at Mbit**
 
-- 👯 I’m looking to collaborate on [it's a secret 🫢](it's a secret 🫢)
-
 - 👨‍💻 All of my public projects are available at [https://github.com/txarlye](https://github.com/txarlye)
 
 - 💬 Ask me about **ia, computer graphics and films!**
