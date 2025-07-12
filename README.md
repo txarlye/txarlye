@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/txarlye/txarlye/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/txarlye/txarlye/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/txarlye/txarlye/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/txarlye/txarlye/output/pacman-contribution-graph.svg">
 </picture>
 <h1 align="center">Hi 👋, I'm Carlos!</h1>
 <h3 align="center">A passionate ia | Vr developer & architect from Spain</h3>
