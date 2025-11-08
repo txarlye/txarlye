@@ -48,7 +48,7 @@
 
 * **[AgentCluedo](https://github.com/txarlye/AgentCluedo)**
     * **Description:** An implementation of the classic board game Cluedo, where the main focus is the development of an AI capable of playing and competing against human players.
-    * **Technologies:** `C++`.
+    * **Technologies:** `python`,`langchain`.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
