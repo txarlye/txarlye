@@ -27,10 +27,6 @@
 <h3 align="center">My Pinned Projects</h3>
 
 ### 🎮 Game Development Projects (Unity/C# & VR)
-* **[AgentFight](https://github.com/txarlye/AgentFight)**
-    * **Description:** A fighting game using intelligent agents trained with **Unity ML-Agents**. The characters learn to fight autonomously via *Reinforcement Learning*.
-    * **Technologies:** `Unity`, `C#`, `ML-Agents`.
-
 * **[The-Cube](https://github.com/txarlye/The-Cube)**
     * **Description:** A 3D platformer and puzzle game developed in Unity. The goal is to navigate complex levels by solving puzzles to reach the goal.
     * **Technologies:** `Unity`, `C#`.
@@ -46,6 +42,10 @@
 ---
 
 ### 🤖 Artificial Intelligence Projects (Python)
+* **[AgentFight](https://github.com/txarlye/AgentFight)**
+    * **Description:** A fighting game that uses AI agents to dynamically create characters and fight with them, making every match unique.
+    * **Technologies:** `Python`, `Pygame`, `Ollama`, `OpenAI`, `Agents`.
+
 * **[AgentCluedo](https://github.com/txarlye/AgentCluedo)**
     * **Description:** An AI-driven implementation of the classic Cluedo board game. It uses **LangChain** to empower an agent with **LLM-based** reasoning, allowing it to process clues, make logical deductions, and play strategically.
     * **Technologies:** `Python`, `LangChain`.
