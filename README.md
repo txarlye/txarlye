@@ -11,6 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=txarlye" alt="txarlye" /></a> </p>
 
+
 - 🔭 I’m currently working on [Idearium](https://www.idearium.eu/)
 
 - 🌱 I’m currently learning **Artificial intelligence at Mbit**
@@ -20,6 +21,34 @@
 - 💬 Ask me about **ia, computer graphics and films!**
 
 - 📫 How to reach me **txarlye@gmail.com**
+
+### 🎮 Game Development Projects (Unity/C#)
+* **[AgentFight](https://github.com/txarlye/AgentFight)**
+    * **Description:** A fighting game using intelligent agents trained with **Unity ML-Agents**. The characters learn to fight autonomously via *Reinforcement Learning*.
+    * **Technologies:** `Unity`, `C#`, `ML-Agents`.
+
+* **[The-Cube](https://github.com/txarlye/The-Cube)**
+    * **Description:** A 3D platformer and puzzle game developed in Unity. The goal is to navigate complex levels by solving puzzles to reach the goal.
+    * **Technologies:** `Unity`, `C#`.
+
+* **[Fruit_ninja](https://github.com/txarlye/Fruit_ninja)**
+    * **Description:** A functional clone of the popular *Fruit Ninja* game, developed and optimized for Android mobile devices.
+    * **Technologies:** `Unity`, `C#`.
+
+---
+
+### 🤖 Artificial Intelligence Projects (Python / C++)
+* **[TFM_Utad](https://github.com/txarlye/TFM_Utad)**
+    * **Description:** My Master's Thesis. A research project on the use of **Deep Reinforcement Learning (DRL)** for the automatic optimization and tuning of PID controllers.
+    * **Technologies:** `Python`, `TensorFlow`/`Keras`, `Gym`, `Jupyter Notebook`.
+
+* **[ia_tradding](https://github.com/txarlye/ia_tradding)**
+    * **Description:** An AI project applied to stock market trading. The objective is to analyze market data and make automated buy/sell decisions.
+    * **Technologies:** `Python`, `Pandas`, `Scikit-learn`, `Jupyter Notebook`.
+
+* **[AgentCluedo](https://github.com/txarlye/AgentCluedo)**
+    * **Description:** An implementation of the classic board game Cluedo, where the main focus is the development of an AI capable of playing and competing against human players.
+    * **Technologies:** `C++`.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
