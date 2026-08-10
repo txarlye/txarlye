@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=txarlye" alt="txarlye" /></a> </p>
 
-- 🔭 I’m currently working on [AST]([https://www.idearium.eu/](https://ast.aragon.es/))
-- 🌱 I’m currently learning **Artificial intelligence at Mbit**
+- 🔭 I’m currently working at [AST](https://ast.aragon.es/)
+- 🌱 I’m currently focused on **Artificial Intelligence, Machine Learning and Generative AI**
 - 👨‍💻 All of my public projects are available at [https://github.com/txarlye](https://github.com/txarlye)
-- 💬 Ask me about **ia, computer graphics and films!**
-- 📫 How to reach me **txarlye@gmail.com**
+- 💬 Ask me about **AI, computer graphics and films!**
+- 📫 How to reach me **[txarlye@gmail.com](mailto:txarlye@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
