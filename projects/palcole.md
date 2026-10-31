@@ -16,14 +16,7 @@
 
 ## Screenshots
 
-<!--
-<p>
-  <img src="../assets/projects/palcole/1.png" width="220" />
-  <img src="../assets/projects/palcole/2.png" width="220" />
-  <img src="../assets/projects/palcole/3.png" width="220" />
-</p>
--->
-*Coming soon.*
+<img src="../assets/projects/palcole/03.png" width="640" alt="Exercises by school year" />
 
 ## How it's built
 

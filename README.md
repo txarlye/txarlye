@@ -41,28 +41,42 @@ Ranks the nearest playgrounds by **the weather right now** (shade when it's hot,
 `Python` `Docker` `Leaflet` `OpenStreetMap` `Open-Meteo` · [More →](projects/wallapark.md)
 
 ### 🎒 [Palcole](https://palcole.es) — *School life for families*
-<!-- Screenshots: assets/projects/palcole/1.png, 2.png, 3.png -->
+<p>
+  <img src="assets/projects/palcole/03.png" width="620" alt="Palcole exercises by school year" />
+</p>
 
 Practice exercises and dictations for each school year, the official curriculum of every region, and a map of the **13,809 schools in Spain** with their plots drawn over aerial photos and their after-school activities. Available in **Spanish, Catalan, Galician and Basque**.
 `Python` `Docker` `Leaflet` `i18n` `Open data` · [More →](projects/palcole.md)
 
 ### 🍂 [Pafollar](https://pafollar.es) — *Is the countryside at its best this weekend?*
-<!-- Screenshots: assets/projects/pafollar/1.png, 2.png, 3.png -->
+<p>
+  <img src="assets/projects/pafollar/01.png" width="200" alt="Pafollar best this weekend" />
+  <img src="assets/projects/pafollar/02.png" width="200" alt="Pafollar spot details" />
+  <img src="assets/projects/pafollar/06.png" width="200" alt="Pafollar t-shirt designer" />
+</p>
 
 Beech forests in autumn, blossoms, waterfalls with water: people report how each spot looks right now and the app ranks them by that, the weekend forecast, distance and crowds. **Folloescapada** turns it into a trip plan your friends vote on via WhatsApp. *(¿Pafollar? From "follaje", foliage. Mente sucia la tuya 🍂)*
 `Python` `Docker` `Leaflet` `Crowdsourcing` · [More →](projects/pafollar.md)
 
 ### 🧴 [Pacagar](https://pacagar.es) — *Read the bottle while you're there*
-<!-- Screenshots: assets/projects/pacagar/1.png, 2.png, 3.png -->
+<p>
+  <img src="assets/projects/pacagar/01.png" width="200" alt="Pacagar product" />
+  <img src="assets/projects/pacagar/02.png" width="200" alt="Pacagar 3D bottle" />
+  <img src="assets/projects/pacagar/03.png" width="200" alt="Pacagar games" />
+</p>
 
 Bathroom products as **3D bottles** you spin to read the label, with every ingredient explained in plain words. Includes **augmented-reality** mini-games and a barcode scanner. Data from Open Beauty Facts, rebuilt monthly.
 `Python` `Three.js` `WebXR` `BarcodeDetector` · [More →](projects/pacagar.md)
 
-### ⚡ [Aura Arena](https://auraarena.app) — *The competitive aura league* · 🔒 private beta
-<!-- Screenshots: assets/projects/aura-arena/1.png, 2.png, 3.png -->
+### ⚡ [Aura Arena](https://auraarena.app) — *Fight with your body, in front of a live crowd* · 📱 Google Play coming soon
+<p>
+  <img src="assets/projects/auraarena/01.png" width="200" alt="Aura Arena gesture fight" />
+  <img src="assets/projects/auraarena/02.png" width="200" alt="Aura Arena matchmaking" />
+  <img src="assets/projects/auraarena/03.png" width="200" alt="Aura Arena radar" />
+</p>
 
-A competitive game where players face off in duels and the audience votes live. Web app (PWA) plus an **Android app** built with Capacitor, real-time multiplayer over **WebSockets** and **WebRTC**.
-`JavaScript` `Node.js` `WebSockets` `WebRTC` `SQLite` `Capacitor` · [More →](projects/aura-arena.md)
+A gesture-based fighting game: your phone's camera tracks your body with **MediaPipe** and your moves become attacks against your rival while the audience votes live. Real-time 1 vs 1 duels, a radar of nearby fighters, and a story mode where you conquer real places. Web app (PWA) plus an **Android app**.
+`JavaScript` `MediaPipe` `Node.js` `WebSockets` `WebRTC` `SQLite` `Capacitor` · [More →](projects/aura-arena.md)
 
 ### 💼 [Pacurrar](https://pacurrar.es) — *Jobs in Aragón* · 🚧 coming soon
 <!-- Screenshots: assets/projects/pacurrar/1.png, 2.png, 3.png -->

@@ -12,17 +12,19 @@
 - **Smart ranking:** combines those reports with the weekend forecast, distance and how crowded each spot gets.
 - **Folloescapada:** a trip plan with dates that friends vote on, shared over WhatsApp.
 - **Share previews:** a generated image for each spot and status.
+- **Towns:** a "town of the month" voted by visitors, and a t-shirt for every town, drawn as outlines from a free Wikimedia Commons photo.
+- **Official data:** spots come from Spain's Forest Map, with the area drawn on the map and directions to get there.
 
 ## Screenshots
 
-<!--
 <p>
-  <img src="../assets/projects/pafollar/1.png" width="220" />
-  <img src="../assets/projects/pafollar/2.png" width="220" />
-  <img src="../assets/projects/pafollar/3.png" width="220" />
+  <img src="../assets/projects/pafollar/01.png" width="220" alt="Best this weekend" />
+  <img src="../assets/projects/pafollar/02.png" width="220" alt="Spot details and reports" />
 </p>
--->
-*Coming soon.*
+<p>
+  <img src="../assets/projects/pafollar/05.png" width="220" alt="T-shirts and mugs" />
+  <img src="../assets/projects/pafollar/06.png" width="220" alt="Your town's t-shirt" />
+</p>
 
 ## How it's built
 

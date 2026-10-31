@@ -17,14 +17,11 @@
 
 ## Screenshots
 
-<!--
 <p>
-  <img src="../assets/projects/pacagar/1.png" width="220" />
-  <img src="../assets/projects/pacagar/2.png" width="220" />
-  <img src="../assets/projects/pacagar/3.png" width="220" />
+  <img src="../assets/projects/pacagar/01.png" width="220" alt="Product with its ingredients" />
+  <img src="../assets/projects/pacagar/02.png" width="220" alt="3D bottle, spin to read" />
+  <img src="../assets/projects/pacagar/03.png" width="220" alt="Games" />
 </p>
--->
-*Coming soon.*
 
 ## How it's built
 
