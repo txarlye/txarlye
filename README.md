@@ -5,7 +5,7 @@
 </picture> 
 
 <h1 align="center">Hi 👋, I'm Carlos!</h1>
-<h3 align="center">A passionate ia | Vr developer & architect from Spain</h3>
+<h3 align="center">A passionate AI | VR developer & architect from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=txarlye&label=Profile%20views&color=0e75b6&style=flat" alt="txarlye" /> </p>
 
@@ -21,6 +21,54 @@
 <p align="left">
 <a href="https://linkedin.com/in/carloslorentebaeza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carloslorentebaeza" height="30" width="40" /></a>
 </p>
+
+---
+
+<h3 align="center">🌐 Live Projects</h3>
+
+<p align="center"><i>Real products I design, build and run myself. The code is private: these are screenshots and write-ups.</i></p>
+
+All of them share the same engineering approach: **Python servers with the standard library only**, one **Docker** container per app on my own server, **automated tests + a pentest on every deploy**, SEO-ready pages rendered server-side, and comment/photo moderation with a local **LLM (Ollama)**.
+
+### 🛝 [WallaPark](https://wallapark.es) — *Which park do we go to today?*
+<p>
+  <img src="assets/projects/wallapark/ranking.png" width="200" alt="WallaPark ranking" />
+  <img src="assets/projects/wallapark/park.png" width="200" alt="WallaPark park details" />
+  <img src="assets/projects/wallapark/schedule.png" width="200" alt="WallaPark schedule" />
+</p>
+
+Ranks the nearest playgrounds by **the weather right now** (shade when it's hot, shelter from the wind), bars nearby and what matters to kids and parents. Built on **OpenStreetMap** and **Overture** data for all of Spain, refreshed monthly. Also published as an Android app.
+`Python` `Docker` `Leaflet` `OpenStreetMap` `Open-Meteo` · [More →](projects/wallapark.md)
+
+### 🎒 [Palcole](https://palcole.es) — *School life for families*
+<!-- Screenshots: assets/projects/palcole/1.png, 2.png, 3.png -->
+
+Practice exercises and dictations for each school year, the official curriculum of every region, and a map of the **13,809 schools in Spain** with their plots drawn over aerial photos and their after-school activities. Available in **Spanish, Catalan, Galician and Basque**.
+`Python` `Docker` `Leaflet` `i18n` `Open data` · [More →](projects/palcole.md)
+
+### 🍂 [Pafollar](https://pafollar.es) — *Is the countryside at its best this weekend?*
+<!-- Screenshots: assets/projects/pafollar/1.png, 2.png, 3.png -->
+
+Beech forests in autumn, blossoms, waterfalls with water: people report how each spot looks right now and the app ranks them by that, the weekend forecast, distance and crowds. **Folloescapada** turns it into a trip plan your friends vote on via WhatsApp. *(¿Pafollar? From "follaje", foliage. Mente sucia la tuya 🍂)*
+`Python` `Docker` `Leaflet` `Crowdsourcing` · [More →](projects/pafollar.md)
+
+### 🧴 [Pacagar](https://pacagar.es) — *Read the bottle while you're there*
+<!-- Screenshots: assets/projects/pacagar/1.png, 2.png, 3.png -->
+
+Bathroom products as **3D bottles** you spin to read the label, with every ingredient explained in plain words. Includes **augmented-reality** mini-games and a barcode scanner. Data from Open Beauty Facts, rebuilt monthly.
+`Python` `Three.js` `WebXR` `BarcodeDetector` · [More →](projects/pacagar.md)
+
+### ⚡ [Aura Arena](https://auraarena.app) — *The competitive aura league* · 🔒 private beta
+<!-- Screenshots: assets/projects/aura-arena/1.png, 2.png, 3.png -->
+
+A competitive game where players face off in duels and the audience votes live. Web app (PWA) plus an **Android app** built with Capacitor, real-time multiplayer over **WebSockets** and **WebRTC**.
+`JavaScript` `Node.js` `WebSockets` `WebRTC` `SQLite` `Capacitor` · [More →](projects/aura-arena.md)
+
+### 💼 [Pacurrar](https://pacurrar.es) — *Jobs in Aragón* · 🚧 coming soon
+<!-- Screenshots: assets/projects/pacurrar/1.png, 2.png, 3.png -->
+
+Public-sector and private job offers in Aragón and remote, gathered automatically from many sources into one place, with alerts.
+`Python` `Docker` `Web scraping` · [More →](projects/pacurrar.md)
 
 ---
 
