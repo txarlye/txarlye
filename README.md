@@ -42,7 +42,12 @@ Ranks the nearest playgrounds by **the weather right now** (shade when it's hot,
 
 ### 🎒 [Palcole](https://palcole.es) — *School life for families*
 <p>
-  <img src="assets/projects/palcole/03.png" width="620" alt="Palcole exercises by school year" />
+  <img src="assets/projects/palcole/01.png" width="620" alt="Palcole home" />
+</p>
+<p>
+  <img src="assets/projects/palcole/a.png" width="200" alt="Palcole exercise" />
+  <img src="assets/projects/palcole/b.png" width="200" alt="Palcole official curriculum" />
+  <img src="assets/projects/palcole/d.png" width="200" alt="Palcole step-by-step solution" />
 </p>
 
 Practice exercises and dictations for each school year, the official curriculum of every region, and a map of the **13,809 schools in Spain** with their plots drawn over aerial photos and their after-school activities. Available in **Spanish, Catalan, Galician and Basque**.
